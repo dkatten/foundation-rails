@@ -5,7 +5,7 @@ require 'foundation/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "foundation-rails"
-  spec.version       = Foundation::Rails::VERSION
+  spec.version       = Zurb::Foundation::Rails::VERSION
   spec.authors       = ["ZURB"]
   spec.email         = ["foundation@zurb.com"]
   spec.description   = %q{ZURB Foundation on Sass/Compass}

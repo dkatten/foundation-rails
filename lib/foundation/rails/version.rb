@@ -1,5 +1,7 @@
-module Foundation
-  module Rails
-    VERSION = "6.1.2.0"
+module Zurb
+  module Foundation
+    module Rails
+      VERSION = "6.1.2.0"
+    end
   end
 end
