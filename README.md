@@ -22,7 +22,7 @@ Or install it yourself as:
 
 You can run the following command to add Foundation:
 
-    $ rails g foundation:install
+    $ rails g zurb:foundation:install
 
 Generating Haml or Slim versions of the markup can be done by appending the `--haml` or `--slim` option to the above command.
 
